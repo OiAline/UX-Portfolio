@@ -20,7 +20,7 @@ Durante essa fase, foram investigados os principais desafios enfrentados por ess
 A persona foi criada a partir dos principais comportamentos e necessidades identificados durante a pesquisa. Ela representa o perfil do usuário para o qual o PRUMO está sendo desenvolvido e auxilia na tomada de decisões ao longo do processo de design.
 
 <p align="center">
-    <img src="[../assets/pesquisa/Persona.png](https://raw.githubcontent.com/OiAline/UX-Portfolio/blob/34d8a27258448716a8df9aa3c9fea7bd683c9462/PRUMO/assets/pesquisa/Persona.png)" width="700">
+    <img src="../assets/pesquisa/Persona.png" width="700">
 </p>
 
 

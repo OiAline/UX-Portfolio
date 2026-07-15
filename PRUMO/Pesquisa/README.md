@@ -20,9 +20,8 @@ Durante essa fase, foram investigados os principais desafios enfrentados por ess
 A persona foi criada a partir dos principais comportamentos e necessidades identificados durante a pesquisa. Ela representa o perfil do usuário para o qual o PRUMO está sendo desenvolvido e auxilia na tomada de decisões ao longo do processo de design.
 
 <p align="center">
-    <img src="./persona.png" width="700">
+    <img src="../assets/pesquisa/persona.png" width="700">
 </p>
-
 ---
 
 ## Jornada do Usuário
@@ -30,7 +29,7 @@ A persona foi criada a partir dos principais comportamentos e necessidades ident
 O mapa da jornada do usuário permitiu visualizar as ações, pensamentos e emoções do personal trainer durante o processo de gerenciamento financeiro do seu negócio, evidenciando oportunidades de melhoria na experiência proposta pelo produto.
 
 <p align="center">
-    <img src="./jornada-do-usuario.png" width="900">
+    <img src="../assets/pesquisa/jornada-do-usuario.png" width="900">
 </p>
 
 ---

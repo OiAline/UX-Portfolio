@@ -1,3 +1,5 @@
+![prumo-banner](/assets/prumo-banner.png)
+
 # PRUMO
 
 Aplicativo de gestão financeira e administrativa

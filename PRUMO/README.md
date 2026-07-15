@@ -1,4 +1,4 @@
-![prumo-banner](/assets/prumo-banner.png)
+![prumo-banner](PRUMO/assets/prumo-banner.png)
 
 # PRUMO
 
